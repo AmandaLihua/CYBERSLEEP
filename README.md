@@ -28,6 +28,7 @@ Il vous faudra utiliser "git clone".
 Puis
 <pre><code>cd CYBERSLEEP </code></pre>
 
+Exemple :
 ![image](https://user-images.githubusercontent.com/60131013/227726066-a9a2a001-2462-4522-9ee5-e25f32a5b6eb.png)
 
 
