@@ -10,6 +10,6 @@ Automatisation des actions RED TEAM :
 *Les outils et techniques utilisé dans ce rapport sont effectué dans le cadre scolaire, nous ne promouvons, n'encourageons, ne soutenons ou n'incitons aucune activité illégale.*
 
 ## Prérequis 
-Il vous faite lancer le script "requirement.py" avec de lancer le programme.
+Vous devez lancer le script "requirement.py" avant de lancer le programme principal.
 
-##
+## Le programme - Automatisation des actions RED TEAM
