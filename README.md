@@ -122,10 +122,10 @@ Résultat :
 
 
 ## Bibliographie
-https://docs.python.org/3/reference/import.html 
-https://danielmiessler.com/blog/nmap-use-the-top-ports-option-for-both-tcp-and-udp-simultaneously/  
-https://www.securiteinfo.com/attaques/hacking/google-dorks-et-google-hacking.shtml 
-https://python.doctor/page-beautifulsoup-html-parser-python-library-xml 
-https://shodan.readthedocs.io/en/latest/tutorial.html  
-https://pypi.org/project/python-whois/
+https://docs.python.org/3/reference/import.html    
+https://danielmiessler.com/blog/nmap-use-the-top-ports-option-for-both-tcp-and-udp-simultaneously/     
+https://www.securiteinfo.com/attaques/hacking/google-dorks-et-google-hacking.shtml    
+https://python.doctor/page-beautifulsoup-html-parser-python-library-xml    
+https://shodan.readthedocs.io/en/latest/tutorial.html     
+https://pypi.org/project/python-whois/  
 
