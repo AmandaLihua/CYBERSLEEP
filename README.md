@@ -25,10 +25,15 @@ Un analyste Red Team est chargé de simuler les tactiques, les techniques et les
 ## Installation
 Il vous faudra utiliser "git clone".
 <pre><code>git clone https://github.com/AmandaLihua/CYBERSLEEP</code></pre>
+Puis
+<pre><code>cd CYBERSLEEP </code></pre>
+
+![image](https://user-images.githubusercontent.com/60131013/227726066-a9a2a001-2462-4522-9ee5-e25f32a5b6eb.png)
 
 
 
 ## Prérequis 
+Il faut avoir Python d'installé sur votre poste ou votre VM.
 Vous devez lancer le script "requirement.py" avant de lancer le programme principal.
 
 ## Le programme - Automatisation des actions RED TEAM
