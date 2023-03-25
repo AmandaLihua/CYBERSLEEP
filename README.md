@@ -35,6 +35,7 @@ Puis
 ## Prérequis 
 Il faut avoir Python d'installé sur votre poste ou votre VM.
 Vous devez lancer le script "requirement.py" avant de lancer le programme principal.
+**Il faut etre en mode "root" pour lancer le script "requirement.py"**
 
 ## Le programme - Automatisation des actions RED TEAM
 
