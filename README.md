@@ -49,3 +49,20 @@ Le programme est constitué des 6 options :
 ![image](https://user-images.githubusercontent.com/60131013/227724770-4c8c717a-f12f-4864-a892-3c5b375e75c7.png)
 
 6. Quitter le programme
+
+
+
+
+
+
+
+
+
+
+
+
+## Bibliographie
+https://danielmiessler.com/blog/nmap-use-the-top-ports-option-for-both-tcp-and-udp-simultaneously/
+https://shodan.readthedocs.io/en/latest/tutorial.html
+https://pypi.org/project/python-whois/
+
