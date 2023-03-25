@@ -10,9 +10,9 @@ def check_module(module):
 
 def install_module(module):
     subprocess.check_call(["pip", "install", module])
-    print(f"{module} a été installé")
+    print(f"{module} a été installé sur votre environnement.")
 
-modules = ["os", "datetime", "sys", "python-nmap", "fpdf", "pyfiglet", "termcolor", "google", "whois", "shodan", "requests", "beautifulsoup4"]
+modules = ["os", "datetime", "sys", "python-nmap", "fpdf", "pyfiglet", "termcolor", "google", "python-whois", "shodan", "requests", "beautifulsoup4"]
 
 for module in modules:
     check_module(module)
