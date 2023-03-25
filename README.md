@@ -22,7 +22,11 @@ Un analyste Red Team est chargé de simuler les tactiques, les techniques et les
 
 *Les outils et techniques utilisé dans ce rapport sont effectué dans le cadre scolaire, nous ne promouvons, n'encourageons, ne soutenons ou n'incitons aucune activité illégale.*
 
-## Téléchargement
+## Installation
+Il vous faudra utiliser "git clone".
+<pre><code>git clone https://github.com/AmandaLihua/CYBERSLEEP</code></pre>
+
+
 
 ## Prérequis 
 Vous devez lancer le script "requirement.py" avant de lancer le programme principal.
