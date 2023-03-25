@@ -32,8 +32,8 @@ Puis
 <pre><code>cd CYBERSLEEP </code></pre>
 
 Exemple :
-![image](https://user-images.githubusercontent.com/60131013/227726066-a9a2a001-2462-4522-9ee5-e25f32a5b6eb.png)
 
+![image](https://user-images.githubusercontent.com/60131013/227732750-925b28f6-7979-4190-88d4-649c3d503a93.png)
 
 
 ## Prérequis 
