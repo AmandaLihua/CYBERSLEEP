@@ -46,33 +46,68 @@ Le programme est constitué des 6 options :
 
 ![Screenshot_2](https://user-images.githubusercontent.com/60131013/227724651-665fb5d6-f978-4ba6-a645-cb9be5277905.png)
 
+Un scan de vulnérabilité est une technique d'analyse utilisée pour identifier les vulnérabilités potentielles d'un système, d'un réseau ou d'une application. Il consiste à examiner les composants du système, tels que les logiciels, les ports, les services et les protocoles, afin de déterminer s'ils présentent des vulnérabilités qui pourraient être exploitées par des attaquants.
+
+Voici un exemple d'exécution : 
+
+![image](https://user-images.githubusercontent.com/60131013/227728385-171c4abb-9455-44b1-8aee-423cc85455b8.png)
+
+Résultat :
+
+![image](https://user-images.githubusercontent.com/60131013/227728476-cb72c7ff-d849-4272-bd73-95ec64b8af23.png)
+
+
 2. Recherche OSINT sur un domaine stratégique - Google dorks
 
 ![image](https://user-images.githubusercontent.com/60131013/227724707-3df07dea-c522-4267-a278-9f8efcc4654e.png)
+
+Voici un exemple d'exécution : 
+
+![image](https://user-images.githubusercontent.com/60131013/227729090-313edf33-2166-4b88-96e9-dbc7ad496844.png)
+
+Résultat :
+
+![image](https://user-images.githubusercontent.com/60131013/227729119-a30f556a-93fb-4c12-a383-ede580f91044.png)
 
 3. Collecte du modèle MITRE ATTCK d’une menace
 
 ![image](https://user-images.githubusercontent.com/60131013/227724723-2d4e2f78-f5f5-4aaa-8d40-059915ca9e7d.png)
 
+Voici un exemple d'exécution : 
+
+![image](https://user-images.githubusercontent.com/60131013/227729161-204c389d-08d1-4edb-9c58-3ffb3b3078d3.png)
+
+Résultat :
+
+![image](https://user-images.githubusercontent.com/60131013/227729200-560b1f12-b7e1-4085-b842-bec3a97954e3.png)
+
 4. Shodan
 
 ![image](https://user-images.githubusercontent.com/60131013/227724744-135909e9-773f-49cd-9548-22aee989f42a.png)
+
+Voici un exemple d'exécution : 
+
+![image](https://user-images.githubusercontent.com/60131013/227729398-47746774-34e7-4742-a707-f2bbc19e8f22.png)
+
+Résultat :
+
+![image](https://user-images.githubusercontent.com/60131013/227729374-710dddd3-97b9-4f1f-bfcb-4c71f0847fea.png)
 
 5. Whois
 
 ![image](https://user-images.githubusercontent.com/60131013/227724770-4c8c717a-f12f-4864-a892-3c5b375e75c7.png)
 
+Voici un exemple d'exécution : 
+
+![image](https://user-images.githubusercontent.com/60131013/227729456-6f0f80be-7a69-497d-9fd2-ed3b80c67d6a.png)
+
+Résultat :
+
+![image](https://user-images.githubusercontent.com/60131013/227729469-e9599d5b-a554-41ed-93bb-0be101494689.png)
+
 6. Quitter le programme
 
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/60131013/227729500-cc2d62bc-ed25-4a3d-a661-e65101a49c4a.png)
 
 
 ## Bibliographie
