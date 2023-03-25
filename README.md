@@ -62,6 +62,10 @@ Résultat :
 
 ![image](https://user-images.githubusercontent.com/60131013/227724707-3df07dea-c522-4267-a278-9f8efcc4654e.png)
 
+Une recherche OSINT (Open-Source Intelligence) sur un domaine stratégique est une enquête qui utilise des sources d'informations ouvertes pour collecter des données sur une organisation, une entreprise ou un domaine particulier, dans le but d'obtenir des informations exploitables.
+
+Les Google dorks sont des requêtes de recherche avancées qui permettent d'effectuer des recherches très ciblées sur Google. Ils peuvent être utilisés pour trouver des informations spécifiques sur des sites Web ou des domaines, tels que des fichiers PDF, des informations de contact, des pages de connexion, des répertoires, etc. Les dorks sont généralement utilisés pour trouver des failles de sécurité ou des informations sensibles qui peuvent être utilisées pour compromettre la sécurité d'un domaine ou d'une entreprise.
+
 Voici un exemple d'exécution : 
 
 ![image](https://user-images.githubusercontent.com/60131013/227729090-313edf33-2166-4b88-96e9-dbc7ad496844.png)
@@ -73,6 +77,8 @@ Résultat :
 3. Collecte du modèle MITRE ATTCK d’une menace
 
 ![image](https://user-images.githubusercontent.com/60131013/227724723-2d4e2f78-f5f5-4aaa-8d40-059915ca9e7d.png)
+
+La collecte du modèle MITRE ATT&CK (Adversarial Tactics, Techniques, and Common Knowledge) d'une menace est un processus qui vise à identifier les tactiques, techniques et procédures (TTP) utilisées par les attaquants pour mener une attaque sur un système ou une organisation. 
 
 Voici un exemple d'exécution : 
 
@@ -86,6 +92,8 @@ Résultat :
 
 ![image](https://user-images.githubusercontent.com/60131013/227724744-135909e9-773f-49cd-9548-22aee989f42a.png)
 
+Shodan est un moteur de recherche spécialisé dans la recherche de dispositifs connectés à Internet. Contrairement aux moteurs de recherche traditionnels, qui indexent principalement des sites Web, Shodan analyse et indexe les dispositifs connectés à Internet, tels que les serveurs, les routeurs, les caméras IP, les objets connectés, les appareils domestiques intelligent.
+
 Voici un exemple d'exécution : 
 
 ![image](https://user-images.githubusercontent.com/60131013/227729398-47746774-34e7-4742-a707-f2bbc19e8f22.png)
@@ -97,6 +105,8 @@ Résultat :
 5. Whois
 
 ![image](https://user-images.githubusercontent.com/60131013/227724770-4c8c717a-f12f-4864-a892-3c5b375e75c7.png)
+
+WHOIS est un protocole qui permet d'interroger une base de données publique pour obtenir des informations sur un nom de domaine, telles que le nom et les coordonnées du propriétaire, la date de création, les serveurs de noms et les dates d'expiration
 
 Voici un exemple d'exécution : 
 
