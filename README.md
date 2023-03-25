@@ -1,7 +1,9 @@
 # CYBERSLEEP
 PROJET D'ETUDES - SDV 
 
-![image](https://user-images.githubusercontent.com/60131013/227723653-cee18b3e-319b-4831-9edc-a21a5fb5e014.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/60131013/227723653-cee18b3e-319b-4831-9edc-a21a5fb5e014.png" />
+</p>
 
 Vous faites partie d’un SOC en tant qu’Analyste redteam, votre Manager vous demande de réaliser l’automatisation d’action que vous réalisez tous les jours afin de vous faire gagner du temps sur vos tâches journalières.
 Un analyste Red Team est chargé de simuler les tactiques, les techniques et les procédures (TTP) d'un attaquant potentiel pour évaluer la sécurité d'un système ou d'un réseau. Les actions typiques d'un analyste Red Team peuvent inclure :
@@ -19,6 +21,8 @@ Un analyste Red Team est chargé de simuler les tactiques, les techniques et les
 
 
 *Les outils et techniques utilisé dans ce rapport sont effectué dans le cadre scolaire, nous ne promouvons, n'encourageons, ne soutenons ou n'incitons aucune activité illégale.*
+
+## Téléchargement
 
 ## Prérequis 
 Vous devez lancer le script "requirement.py" avant de lancer le programme principal.
