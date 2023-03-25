@@ -105,7 +105,7 @@ Voici un exemple d'exécution :
 
 Résultat :
 
-![image](https://user-images.githubusercontent.com/60131013/227729374-710dddd3-97b9-4f1f-bfcb-4c71f0847fea.png)
+![image](https://user-images.githubusercontent.com/60131013/227733621-b02b7c73-cd1a-4d49-a56f-20449b0ef43a.png)
 
 5. Whois
 
@@ -119,7 +119,7 @@ Voici un exemple d'exécution :
 
 Résultat :
 
-![image](https://user-images.githubusercontent.com/60131013/227729469-e9599d5b-a554-41ed-93bb-0be101494689.png)
+![image](https://user-images.githubusercontent.com/60131013/227733658-5ae23b1c-d779-4ef8-9a98-722dcd42c191.png)
 
 6. Quitter le programme
 
