@@ -39,7 +39,9 @@ Exemple :
 ## Prérequis 
 Il faut avoir Python d'installé sur votre poste ou votre VM.
 Vous devez lancer le script "requirement.py" avant de lancer le programme principal "cybersleep.py".
-**Il faut etre en mode "root" pour lancer le script "requirement.py"**
+
+![image](https://user-images.githubusercontent.com/60131013/227732944-6d4983a1-db94-476a-b6f4-e5292528de69.png)  **Il faut etre en mode "root" pour lancer le script "requirement.py"**
+
 
 ## Le programme - Automatisation des actions RED TEAM
 
