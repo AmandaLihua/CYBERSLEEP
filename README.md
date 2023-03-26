@@ -26,7 +26,8 @@ Pour ce projet, j'ai utilisé le language de programmation PYTHON.
 Python est un choix populaire pour les tâches de sécurité sur Kali Linux en raison de sa simplicité, sa flexibilité et de sa grande communauté de développeurs. De nombreux outils de sécurité tels que les scripts d'automatisation, les outils de détection de vulnérabilités, les outils d'analyse de données et les outils d'exploitation de failles sont écrits en Python.
 
 ## Installation
-Il est recommandé d'utiliser un environnement **Kali Linux**.
+Il est recommandé d'utiliser un environnement **Kali Linux**.   
+Si vous utilisez un environnement Windows, installer "Zenmap". Lien : https://nmap.org/download.html#windows
 
 Il faudra utiliser "git clone" pour télécharger les scripts.
 <pre><code>git clone https://github.com/AmandaLihua/CYBERSLEEP</code></pre>
